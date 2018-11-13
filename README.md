@@ -2,7 +2,7 @@
 
  Se trata de un Servicio Web desarrollado con Eclipse para el trabajo de la Asignatura arriba indicada de tercer curso del Grado de Informática en la Universidad de Córdoba (España). El objeto del mismo es sólo entender el funcionamiento de un servicio Rest. 
  
- para que el programa funcione hace falta crear el archivo src/main/resources/application.properties con las siguientes líneas:
+ Para que el programa funcione hace falta crear el archivo src/main/resources/application.properties con las siguientes líneas:
 - server.port=8085
 - spring.datasource.url=jdbc:mysql://localhost:3306/servicioRestFulAlumnosDb
 - spring.datasource.driver-class-name=com.mysql.jdbc.Driver
